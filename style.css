@@ -79,7 +79,7 @@
 
 @media screen and (max-width:768px) {
   .top {
-    /*width: 100%;*/
+    width: 100%;
   }
   
   .middle {
